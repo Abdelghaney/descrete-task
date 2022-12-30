@@ -1,0 +1,28 @@
+C:\Users\computer\source\repos\perfect nombre 1\perfect nombre 1\bin\Debug\netcoreapp3.1\perfect nombre 1.exe
+C:\Users\computer\source\repos\perfect nombre 1\perfect nombre 1\bin\Debug\netcoreapp3.1\perfect nombre 1.deps.json
+C:\Users\computer\source\repos\perfect nombre 1\perfect nombre 1\bin\Debug\netcoreapp3.1\perfect nombre 1.runtimeconfig.json
+C:\Users\computer\source\repos\perfect nombre 1\perfect nombre 1\bin\Debug\netcoreapp3.1\perfect nombre 1.runtimeconfig.dev.json
+C:\Users\computer\source\repos\perfect nombre 1\perfect nombre 1\bin\Debug\netcoreapp3.1\perfect nombre 1.dll
+C:\Users\computer\source\repos\perfect nombre 1\perfect nombre 1\bin\Debug\netcoreapp3.1\perfect nombre 1.pdb
+C:\Users\computer\source\repos\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.csproj.AssemblyReference.cache
+C:\Users\computer\source\repos\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer\source\repos\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.AssemblyInfoInputs.cache
+C:\Users\computer\source\repos\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.AssemblyInfo.cs
+C:\Users\computer\source\repos\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.csproj.CoreCompileInputs.cache
+C:\Users\computer\source\repos\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.dll
+C:\Users\computer\source\repos\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.pdb
+C:\Users\computer\source\repos\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.genruntimeconfig.cache
+C:\Users\computer\source\repos\prime nombre\perfect nombre 1\perfect nombre 1\bin\Debug\netcoreapp3.1\perfect nombre 1.exe
+C:\Users\computer\source\repos\prime nombre\perfect nombre 1\perfect nombre 1\bin\Debug\netcoreapp3.1\perfect nombre 1.deps.json
+C:\Users\computer\source\repos\prime nombre\perfect nombre 1\perfect nombre 1\bin\Debug\netcoreapp3.1\perfect nombre 1.runtimeconfig.json
+C:\Users\computer\source\repos\prime nombre\perfect nombre 1\perfect nombre 1\bin\Debug\netcoreapp3.1\perfect nombre 1.runtimeconfig.dev.json
+C:\Users\computer\source\repos\prime nombre\perfect nombre 1\perfect nombre 1\bin\Debug\netcoreapp3.1\perfect nombre 1.dll
+C:\Users\computer\source\repos\prime nombre\perfect nombre 1\perfect nombre 1\bin\Debug\netcoreapp3.1\perfect nombre 1.pdb
+C:\Users\computer\source\repos\prime nombre\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.csproj.AssemblyReference.cache
+C:\Users\computer\source\repos\prime nombre\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer\source\repos\prime nombre\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.AssemblyInfoInputs.cache
+C:\Users\computer\source\repos\prime nombre\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.AssemblyInfo.cs
+C:\Users\computer\source\repos\prime nombre\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.csproj.CoreCompileInputs.cache
+C:\Users\computer\source\repos\prime nombre\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.dll
+C:\Users\computer\source\repos\prime nombre\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.pdb
+C:\Users\computer\source\repos\prime nombre\perfect nombre 1\perfect nombre 1\obj\Debug\netcoreapp3.1\perfect nombre 1.genruntimeconfig.cache
